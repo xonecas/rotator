@@ -1,0 +1,17 @@
+/*
+ * Author: Sean Caetano Martin
+ * Description: script that reads all the files in a directory and
+ * sets them as a random wallpaper. If you intend to use this, please
+ * make sure you only have IMAGE files in the specified directory.
+ * once the script is started you can set the walpaper to the rotator.png
+ * that was just created in the pictures folder
+ *
+ * USAGE: node rotator.js ['/path/to/pictures_folder'] [interval=30]
+ *
+ * The path is relative to the root (/).
+ * If you don't supply a folder, it will look for:
+ *    cwd + '/Pictures' (default)
+ * If you don't supply an interval it will default to 30 min
+ */
+
+this needs to be updated.
